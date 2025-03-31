@@ -1,3 +1,5 @@
+![LEAD UNI](../images/leaduni-header.png) 
+
 # 🚀 Bienvenid@ a LEAD UNI  
 
 ¡Hola! 😃 Bienvenid@ a la organización de **LEAD UNI**, un espacio donde la innovación, la tecnología y el desarrollo de habilidades se combinan para crear impacto real.  
